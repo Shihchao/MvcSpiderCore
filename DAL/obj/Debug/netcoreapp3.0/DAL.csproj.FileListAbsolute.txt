@@ -1,0 +1,13 @@
+F:\donetCore\WebApiTest\DAL\bin\Debug\netcoreapp3.0\Common.dll
+F:\donetCore\WebApiTest\DAL\bin\Debug\netcoreapp3.0\Model.dll
+F:\donetCore\WebApiTest\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+F:\donetCore\WebApiTest\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+F:\donetCore\WebApiTest\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+F:\donetCore\WebApiTest\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+F:\donetCore\WebApiTest\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\donetCore\WebApiTest\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\donetCore\WebApiTest\DAL\bin\Debug\netcoreapp3.0\Common.pdb
+F:\donetCore\WebApiTest\DAL\bin\Debug\netcoreapp3.0\Model.pdb
+F:\donetCore\WebApiTest\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CopyComplete
+F:\donetCore\WebApiTest\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+F:\donetCore\WebApiTest\DAL\obj\Debug\netcoreapp3.0\DAL.pdb

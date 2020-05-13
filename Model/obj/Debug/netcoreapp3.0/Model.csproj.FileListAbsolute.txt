@@ -1,0 +1,8 @@
+F:\donetCore\WebApiTest\Model\bin\Debug\netcoreapp3.0\Model.deps.json
+F:\donetCore\WebApiTest\Model\bin\Debug\netcoreapp3.0\Model.dll
+F:\donetCore\WebApiTest\Model\bin\Debug\netcoreapp3.0\Model.pdb
+F:\donetCore\WebApiTest\Model\obj\Debug\netcoreapp3.0\Model.csprojAssemblyReference.cache
+F:\donetCore\WebApiTest\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfoInputs.cache
+F:\donetCore\WebApiTest\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfo.cs
+F:\donetCore\WebApiTest\Model\obj\Debug\netcoreapp3.0\Model.dll
+F:\donetCore\WebApiTest\Model\obj\Debug\netcoreapp3.0\Model.pdb

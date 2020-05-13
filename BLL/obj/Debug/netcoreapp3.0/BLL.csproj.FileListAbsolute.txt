@@ -1,0 +1,15 @@
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\Common.dll
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\Model.dll
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\Common.pdb
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\donetCore\WebApiTest\BLL\bin\Debug\netcoreapp3.0\Model.pdb
+F:\donetCore\WebApiTest\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\donetCore\WebApiTest\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\donetCore\WebApiTest\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\donetCore\WebApiTest\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\donetCore\WebApiTest\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\donetCore\WebApiTest\BLL\obj\Debug\netcoreapp3.0\BLL.pdb

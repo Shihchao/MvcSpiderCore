@@ -1,0 +1,8 @@
+F:\donetCore\WebApiTest\Common\bin\Debug\netcoreapp3.0\Common.deps.json
+F:\donetCore\WebApiTest\Common\bin\Debug\netcoreapp3.0\Common.dll
+F:\donetCore\WebApiTest\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+F:\donetCore\WebApiTest\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+F:\donetCore\WebApiTest\Common\bin\Debug\netcoreapp3.0\Common.pdb
+F:\donetCore\WebApiTest\Common\obj\Debug\netcoreapp3.0\Common.dll
+F:\donetCore\WebApiTest\Common\obj\Debug\netcoreapp3.0\Common.pdb
+F:\donetCore\WebApiTest\Common\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache
